@@ -25,7 +25,7 @@ export default function HomeScreen() {
         </div>
         <button className="relative p-2">
           <Bell className="h-6 w-6 text-foreground" />
-          <span className="absolute top-1 right-1 h-2 w-2 bg-destructive rounded-full" />
+          <span className="absolute top-1 right-1 h-2 w-2 bg-primary rounded-full" />
         </button>
       </header>
 
